@@ -1,2 +1,2 @@
 # python-lessons
-Bu yerda python darslari joylashgan
+Ushbu repositoryda python darslariga oid codelar joylashgan.
